@@ -4,6 +4,11 @@ A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaBZJ-VFnDKbUbDKJfIIFhgYhBvVH1_eDtA&usqp=CAU" height="200px" width="280px"/>
 
+![alt text](https://github.com/EdraakSystems/web3-e-voting-application/blob/main/ss-1.png?raw=true)
+
+![alt text](https://github.com/EdraakSystems/web3-e-voting-application/blob/main/ss-2.png?raw=true)
+
+![alt text](https://github.com/EdraakSystems/web3-e-voting-application/blob/main/ss-3.png?raw=true)
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
 ## About the D-App
@@ -54,4 +59,4 @@ cd server
 npm run dev
 ```
 
-&copy; 2022 Muaaz Bin Saeed
+&copy; 2022 Edraak Systems
